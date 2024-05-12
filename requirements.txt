@@ -1,0 +1,4 @@
+yt-dlp==2024.5.11.232654.dev0
+python-telegram-bot==21.1.1
+requests==2.31.0
+filetype==1.2.0
